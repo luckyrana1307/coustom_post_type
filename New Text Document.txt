@@ -1,0 +1,9 @@
+costom Post type using plugin
+
+wordpress\wp-content\plugins\wp-coustom-post-type
+
+
+create file 
+
+
+wp-coustom-post-type.php
